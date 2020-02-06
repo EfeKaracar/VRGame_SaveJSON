@@ -1,0 +1,1008 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-02-06T16:58:42.920-05:00
+  initializedAtString: 2020-02-06T16:58:42.920-05:00
+  entries:
+  - path: VRGame_WorkingTitle\Assets\Efe.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Efe.meta
+    projectPath: Assets\Efe.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: VRGame_WorkingTitle\Assets\Plugins.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\assetDatabase3
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\71\71bbf1ab17c6da441b2f619c2c7d3f5b
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\71\71bbf1ab17c6da441b2f619c2c7d3f5b
+    projectPath: Library\metadata\71\71bbf1ab17c6da441b2f619c2c7d3f5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\71\71bbf1ab17c6da441b2f619c2c7d3f5b.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\71\71bbf1ab17c6da441b2f619c2c7d3f5b.info
+    projectPath: Library\metadata\71\71bbf1ab17c6da441b2f619c2c7d3f5b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\9a\9ad3663ee9fee774bb04aabf312a3692
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\9a\9ad3663ee9fee774bb04aabf312a3692
+    projectPath: Library\metadata\9a\9ad3663ee9fee774bb04aabf312a3692
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\9a\9ad3663ee9fee774bb04aabf312a3692.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\9a\9ad3663ee9fee774bb04aabf312a3692.info
+    projectPath: Library\metadata\9a\9ad3663ee9fee774bb04aabf312a3692.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Library\StateCache\Hierarchy\508ec6-mainStage.json
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Library\StateCache\Hierarchy\508ec6-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\508ec6-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-00b3f5aa3447c974a8f4b6aaa12f194c
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-00b3f5aa3447c974a8f4b6aaa12f194c
+    projectPath: Temp\UnityTempFile-00b3f5aa3447c974a8f4b6aaa12f194c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-053b00d131ccf32459a7c4b909b16636
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-053b00d131ccf32459a7c4b909b16636
+    projectPath: Temp\UnityTempFile-053b00d131ccf32459a7c4b909b16636
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-0fe7e0f3a7890d84d98bc39c9a85bb9c
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-0fe7e0f3a7890d84d98bc39c9a85bb9c
+    projectPath: Temp\UnityTempFile-0fe7e0f3a7890d84d98bc39c9a85bb9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-138329b443df00441b076df600bf9fcd
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-138329b443df00441b076df600bf9fcd
+    projectPath: Temp\UnityTempFile-138329b443df00441b076df600bf9fcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-165c350f0181ee94da00d01878d4ebc8
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-165c350f0181ee94da00d01878d4ebc8
+    projectPath: Temp\UnityTempFile-165c350f0181ee94da00d01878d4ebc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-346e80cec9935ac48a00c153a4957075
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-346e80cec9935ac48a00c153a4957075
+    projectPath: Temp\UnityTempFile-346e80cec9935ac48a00c153a4957075
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-409d7517fb111cf4cb1067803d1d50dd
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-409d7517fb111cf4cb1067803d1d50dd
+    projectPath: Temp\UnityTempFile-409d7517fb111cf4cb1067803d1d50dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-53b0a825f44bd0440a7e37d4a2231add
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-53b0a825f44bd0440a7e37d4a2231add
+    projectPath: Temp\UnityTempFile-53b0a825f44bd0440a7e37d4a2231add
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-56057cfd3ae91b64f9e38e4423b5b4c3
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-56057cfd3ae91b64f9e38e4423b5b4c3
+    projectPath: Temp\UnityTempFile-56057cfd3ae91b64f9e38e4423b5b4c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-5b5a57443bb7eea4eb40409b5c48860f
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-5b5a57443bb7eea4eb40409b5c48860f
+    projectPath: Temp\UnityTempFile-5b5a57443bb7eea4eb40409b5c48860f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-75e7e1b4c9095b94dbfcdc4e04a6ca23
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-75e7e1b4c9095b94dbfcdc4e04a6ca23
+    projectPath: Temp\UnityTempFile-75e7e1b4c9095b94dbfcdc4e04a6ca23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-7968ed3096954f944ab763eca5951f07
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-7968ed3096954f944ab763eca5951f07
+    projectPath: Temp\UnityTempFile-7968ed3096954f944ab763eca5951f07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-7a007605531907c4480d8552bd2ccd69
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-7a007605531907c4480d8552bd2ccd69
+    projectPath: Temp\UnityTempFile-7a007605531907c4480d8552bd2ccd69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-87f95d57179aaa7449c6f87553114f58
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-87f95d57179aaa7449c6f87553114f58
+    projectPath: Temp\UnityTempFile-87f95d57179aaa7449c6f87553114f58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-8fb3e481fc8ed284692fd0bb50cc2358
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-8fb3e481fc8ed284692fd0bb50cc2358
+    projectPath: Temp\UnityTempFile-8fb3e481fc8ed284692fd0bb50cc2358
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-91d54ad0e633f1f4a92685f3474c8870
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-91d54ad0e633f1f4a92685f3474c8870
+    projectPath: Temp\UnityTempFile-91d54ad0e633f1f4a92685f3474c8870
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-9b37c44709d22c14b9859ce17eca2c13
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-9b37c44709d22c14b9859ce17eca2c13
+    projectPath: Temp\UnityTempFile-9b37c44709d22c14b9859ce17eca2c13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-b3af2a061badc2d4db61888ff1c503cc
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-b3af2a061badc2d4db61888ff1c503cc
+    projectPath: Temp\UnityTempFile-b3af2a061badc2d4db61888ff1c503cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-b54f53f079a734b40b53356fb9680f34
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-b54f53f079a734b40b53356fb9680f34
+    projectPath: Temp\UnityTempFile-b54f53f079a734b40b53356fb9680f34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-ba10b213501b0b643ae74bd8f2b2ae3d
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-ba10b213501b0b643ae74bd8f2b2ae3d
+    projectPath: Temp\UnityTempFile-ba10b213501b0b643ae74bd8f2b2ae3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-bc4375bdaf6c0a2459b9913be26d3535
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-bc4375bdaf6c0a2459b9913be26d3535
+    projectPath: Temp\UnityTempFile-bc4375bdaf6c0a2459b9913be26d3535
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-c0111803bb869bb40988cf08d1b275d4
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-c0111803bb869bb40988cf08d1b275d4
+    projectPath: Temp\UnityTempFile-c0111803bb869bb40988cf08d1b275d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-d6f7a759bb94aaa4a9cc3689a196c948
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-d6f7a759bb94aaa4a9cc3689a196c948
+    projectPath: Temp\UnityTempFile-d6f7a759bb94aaa4a9cc3689a196c948
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VRGame_WorkingTitle\Temp\UnityTempFile-e3b194fda96fb294d86ab17dcfba2417
+    fullPath: C:\Users\uguub\Desktop\EmergingTech\VRGame_SaveJSON\VRGame_WorkingTitle\Temp\UnityTempFile-e3b194fda96fb294d86ab17dcfba2417
+    projectPath: Temp\UnityTempFile-e3b194fda96fb294d86ab17dcfba2417
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
